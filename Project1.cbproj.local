@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/06 19:45:23.000.874,=C:\Users\danjo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/12/06 19:45:26.000.234,=C:\Users\danjo\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2018/12/06 19:47:06.000.826,C:\Users\danjo\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\dAN\LearnCPP\LearnCPP.cpp</Transaction>
+    <Transaction>2018/12/06 19:50:48.000.703,C:\Users\danjo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\dAN\LearnCPP\LearnCPP.h</Transaction>
+    <Transaction>2018/12/06 19:51:01.000.416,C:\Users\danjo\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\dAN\LearnCPP\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
